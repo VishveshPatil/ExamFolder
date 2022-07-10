@@ -14,4 +14,3 @@ print("we can see with the help of jenkins continuous integration and deployment
 
 
 print("Hence, we should know working of jenkins")
-print("Thank You!!")
