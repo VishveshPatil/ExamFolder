@@ -8,3 +8,6 @@ X = 10
 Y = 10
 Z = X * Y
 print("multiplication of ",X,"and",Y,"=",Z)
+
+
+print("we can see with the help of jenkins continuous integration and deployment is possible....")
